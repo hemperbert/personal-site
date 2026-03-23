@@ -10,3 +10,6 @@ Personal development log — notes, findings, and ongoing work.
 - Refactored module structure for clarity
 - Resolved deprecation warnings
 - Checked for memory leaks in long-running path
+
+## 2026-03-23
+- Added basic usage examples to README
