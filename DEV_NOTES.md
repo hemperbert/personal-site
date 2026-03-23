@@ -18,3 +18,8 @@ Personal development log — notes, findings, and ongoing work.
 - Ran linter, applied auto-fixes
 - Tidied up project structure
 - Bumped patch version
+
+## 2026-03-23
+- Ran linter, applied auto-fixes
+- Pinned dependency versions for reproducibility
+- Documented config options
